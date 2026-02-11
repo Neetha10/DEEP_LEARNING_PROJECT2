@@ -25,7 +25,7 @@ LoRA freezes the base model and only trains small matrices injected into attenti
 ## Quick Start
 ```bash
 pip install transformers datasets peft torch
-python train_lora.py
+python Deep_learning_project_2.ipynb
 ```
 
 ## Architecture
